@@ -1,0 +1,1 @@
+# Turunan-Eksponensial-dan-Fungsi-Logaritma
